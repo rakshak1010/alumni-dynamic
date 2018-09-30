@@ -1,5 +1,4 @@
 # IIITDMJ Alumni Association
-![Alumni Association](http://cdn.bleacherreport.net/images_root/slides/photos/000/164/679/AlumniAssociation.gif_display_image.png?1267152455)
 ## Overview:
 ___
 A web based app designed for maintaining alumni records and increasing alumni interaction  in **IIITDM Jabalpur**.
@@ -12,7 +11,6 @@ ____
 ## Features:
 ___
 - Alumni will ge given a UserId and Password to login and they will upload their details.
-- An alumni can add another alumni as his friend.
 - Alumni will get to know the various activity in college.
 - A platform for present student to interact with their alumni.
 ____
